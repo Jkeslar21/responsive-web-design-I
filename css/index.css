@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5 {
 
 header nav {
   display: inline-block;
-  width: 691px;
+  width; 691px;
   vertical-align: top;
   margin-top: 35px;
 }
@@ -157,6 +157,7 @@ header .logo {
 
 .main-content .middle-img {
   margin-top: 45px;
+  max-width: 100%;
 }
 
 .main-content .bottom-content {
@@ -185,7 +186,7 @@ header .logo {
 }
 
 footer {
-  margin: 32px 0;
+  margin: 2% 0;
   text-align: center;
   font-size: 14px;
 }
@@ -245,7 +246,7 @@ footer {
       }
       
       footer {
-        margin: 32px 0;
+        margin: 2% 0;
         text-align: center;
         font-size: 14px;
       }
